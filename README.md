@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a Machine Learning Engineer with experience in Python, Java and MATLAB, but I enjoy working on C#/Unity GameDev in my spare time.
+I'm a Machine Learning Engineer with experience in Python, Java, C# and MATLAB. 
+I enjoy working on C#/Unity GameDev in my spare time.
 
 Some of my Python past projects: 
 
