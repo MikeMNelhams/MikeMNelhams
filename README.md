@@ -17,3 +17,4 @@ My current C# / Unity Dev project:
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MikeMNelhams/MikeMNelhams)
+![GitHub followers](https://img.shields.io/github/followers/:MikeMNelhams)
