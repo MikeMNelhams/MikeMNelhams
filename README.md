@@ -7,12 +7,11 @@ Some of my Python past projects:
 - [OFCOM Unsupervised Learning with Sky Broadband](https://github.com/MikeMNelhams/SkyBroadbandProject)
 - [Lil A.I. Generative LSTM With custom Loss functions](https://github.com/MikeMNelhams/Lil-A.I.-Approaches-to-Rap-Lyric-Generation)
 - [Sperm Tracking and fertility prediction with MOJO.AI](https://github.com/MikeMNelhams/SpermTracking)
-
+- [User recommendation system for Dating Application](https://github.com/MikeMNelhams/Recommender-System-for-User-User-Ratings)
 
 My current C# / Unity Dev project:
 
-- It's a secret until Update 1.1.0 ;)
-
+- I will publish details with Update 1.1.0 ;)
 
 ---
 
