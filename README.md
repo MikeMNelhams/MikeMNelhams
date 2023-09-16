@@ -21,6 +21,3 @@ Current Python projects:
 There is a new 2v2v2v2 LoL game mode and I've created a tool to scrape data and measure useful statistics. 
 As far as I can see, there is no proper website that records pairwise data, so voila:
 - [Lol Arena Data Scraper](https://github.com/MikeMNelhams/LoL_ArenaDataScraper) 
-
-[comment]: <> (![visitors](https://visitor-badge.laobi.icu/badge?page_id=MikeMNelhams/MikeMNelhams))
-[comment]: <> (![GitHub followers](https://img.shields.io/github/followers/MikeMNelhams))
