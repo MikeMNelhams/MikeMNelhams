@@ -3,12 +3,14 @@
 I'm a Machine Learning Engineer with experience in Python, Java, C# and MATLAB. 
 I enjoy working on C#/Unity GameDev in my spare time.
 
-Some of my Python past projects: 
+Some of my University projects: 
 
 - [OFCOM Unsupervised Learning with Sky Broadband](https://github.com/MikeMNelhams/SkyBroadbandProject)
 - [Lil A.I. Generative LSTM With custom Loss functions](https://github.com/MikeMNelhams/Lil-A.I.-Approaches-to-Rap-Lyric-Generation)
 - [Sperm Tracking and fertility prediction with MOJO.AI](https://github.com/MikeMNelhams/SpermTracking)
 - [User recommendation system for Dating Application](https://github.com/MikeMNelhams/Recommender-System-for-User-User-Ratings)
+
+My custom projects:
 - [Lol Arena Data Scraper](https://github.com/MikeMNelhams/LoL_ArenaDataScraper)
   
 ---
