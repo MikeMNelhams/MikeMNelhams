@@ -21,6 +21,6 @@ My custom projects:
 
 ---
 
-I have also begun participating daily in LeetCode challenges (Python and C# mainly), so check out my profile:
+I also like to do LeetCode for a bit of fun practice:
 
 [LeetCode Profile](https://leetcode.com/MikeMNelhams/)
