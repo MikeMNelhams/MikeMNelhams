@@ -3,7 +3,7 @@
 I'm a Machine Learning Engineer with experience in Python, Java, C# and MATLAB. 
 I enjoy working on C#/Unity GameDev in my spare time.
 
-Some of my University projects _(which I'm allowed to share)_: 
+Some of my University ML projects _(which I'm allowed to share)_: 
 
 - [OFCOM Unsupervised Learning with Sky Broadband](https://github.com/MikeMNelhams/SkyBroadbandProject)
 - [Lil A.I. Generative LSTM With custom Loss functions](https://github.com/MikeMNelhams/Lil-A.I.-Approaches-to-Rap-Lyric-Generation)
