@@ -12,6 +12,7 @@ Some of my University ML projects _(which I'm allowed to share)_:
 
 My custom projects:
 - [Lol Arena Data Scraper](https://github.com/MikeMNelhams/LoL_ArenaDataScraper)
+- [Karma - Card Game Simulation](https://github.com/MikeMNelhams/Karma)
   
 ---
 
