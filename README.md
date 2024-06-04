@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Machine Learning Engineer with experience in Python, Java, C# and MATLAB. 
+I'm a Data Scientist with seven years of experience in Python and three years of experience in Java, C#, MATLAB, SQLite and SQL Server.
 I enjoy working on C#/Unity GameDev in my spare time.
 
 Some of my University ML projects _(which I'm allowed to share)_: 
