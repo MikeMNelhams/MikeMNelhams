@@ -3,7 +3,7 @@
 I'm a Data Scientist with seven years of experience in Python and three years of experience in Java, C#, MATLAB, SQLite and SQL Server.
 I enjoy working on C#/Unity GameDev in my spare time.
 
-Some of my University ML projects _(which I'm allowed to share)_: 
+Some of my University Machine Learning projects _(which I'm allowed to share)_: 
 
 - [OFCOM Unsupervised Learning with Sky Broadband](https://github.com/MikeMNelhams/SkyBroadbandProject)
 - [Lil A.I. Generative LSTM With custom Loss functions](https://github.com/MikeMNelhams/Lil-A.I.-Approaches-to-Rap-Lyric-Generation)
@@ -13,6 +13,7 @@ Some of my University ML projects _(which I'm allowed to share)_:
 My custom projects:
 - [Lol Arena Data Scraper](https://github.com/MikeMNelhams/LoL_ArenaDataScraper)
 - [Karma - Card Game Simulation in CLI](https://github.com/MikeMNelhams/Karma)
+- [Karma 3D - Card Game Simulation 3D implemented in Unity w/ C#](https://github.com/MikeMNelhams/Karma---Unity)
   
 ---
 
