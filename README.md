@@ -4,11 +4,6 @@ I'm a Data Scientist with seven years of experience in Python and three years of
 I enjoy working on C#/Unity GameDev in my spare time.
 
 ---
-### Contact me via: 
-
-Email: [mikemnelhams@gmail.com](mikemnelhams@gmail.com)
-
----
 
 ### Projects
 
@@ -19,7 +14,7 @@ Some of my Machine Learning projects _(which I'm allowed to share)_:
 - [Sperm Tracking and fertility prediction with MOJO.AI](https://github.com/MikeMNelhams/SpermTracking)
 - [User recommendation system for Dating Application](https://github.com/MikeMNelhams/Recommender-System-for-User-User-Ratings)
 
-My custom projects:
+My personal projects:
 - [Lol Arena Data Scraper](https://github.com/MikeMNelhams/LoL_ArenaDataScraper)
 - [Karma - Card Game Simulation in CLI](https://github.com/MikeMNelhams/Karma)
 - [Karma 3D - Card Game Simulation 3D implemented in Unity w/ C#](https://github.com/MikeMNelhams/Karma---Unity)
@@ -35,3 +30,9 @@ Let's participate in a bit of festive coding. Here are my solutions to the 2023 
 I also like to do LeetCode for a bit of fun practice:
 
 [LeetCode Profile](https://leetcode.com/MikeMNelhams/)
+
+---
+### Contact me via: 
+
+- Email: [mikemnelhams@gmail.com](mikemnelhams@gmail.com)
+- [![Linkedin: Mike Nelhams](https://img.shields.io/badge/-MikeNelhams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-nelhams-91a077167/)](https://www.linkedin.com/in/michael-nelhams-91a077167/)
