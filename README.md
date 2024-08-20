@@ -15,7 +15,7 @@ Some of my Machine Learning projects _(which I'm allowed to share)_:
 - [User recommendation system for Dating Application](https://github.com/MikeMNelhams/Recommender-System-for-User-User-Ratings)
 
 My personal projects:
-- [Lol Arena Data Scraper](https://github.com/MikeMNelhams/LoL_ArenaDataScraper)
+- [LoL Arena Data Scraper](https://github.com/MikeMNelhams/LoL_ArenaDataScraper)
 - [Karma - Card Game Simulation in CLI](https://github.com/MikeMNelhams/Karma)
 - [Karma 3D - Card Game Simulation 3D implemented in Unity w/ C#](https://github.com/MikeMNelhams/Karma---Unity)
 
