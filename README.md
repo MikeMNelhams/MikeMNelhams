@@ -23,9 +23,9 @@ My personal projects:
 
 ### Coding Challenges:
 
-Let's participate in a bit of festive coding. Here are my solutions to the 2023 [Advent of Code](https://adventofcode.com/2023):
+Let's participate in a bit of festive coding. Here are my solutions to the [Advent of Code](https://adventofcode.com/2024):
 
-[Advent of Code 2023 | My solutions](https://github.com/MikeMNelhams/Advent-of-Code-2023)
+[Advent of Code 2023-2024 | My solutions](https://github.com/MikeMNelhams/Advent-of-Code-2023)
 
 I also like to do LeetCode for a bit of fun practice:
 
