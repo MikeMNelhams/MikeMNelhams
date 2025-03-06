@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Data Scientist with seven years of experience in Python and three years of experience in Java, C#, MATLAB, SQLite and SQL Server.
+I'm a Data Analyst with seven years of experience in Python and three years of experience in Java, C#, MATLAB, SQLite and SQL Server.
 I enjoy working on C#/Unity GameDev in my spare time.
 
 ---
