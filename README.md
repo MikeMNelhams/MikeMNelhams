@@ -6,7 +6,7 @@ I'm a Data Analyst with seven years of experience in Python and three years of e
 |---|---|---|
 | Python | 7 | ★★★★★ |
 | C# | 3 | ★★★★ |
-| MATLAB | 3 | ★★ |
+| MATLAB | 3 | ★★★ |
 | Java | 3 | ★ |
 | PowerBI | 1 | ★★★★★ |
 
