@@ -2,15 +2,6 @@
 
 I'm a Data Analyst with seven years of experience in Python and three years of experience in Java, C#, MATLAB, SQLite and SQL Server.
 
-| Tech | ▲ Years Experience | How cool I think I look whilst using it |
-|---|---|---|
-| Python | 7 | ★★★★ |
-| C# | 3 | ★★★★ |
-| MATLAB | 3 | ★★★ |
-| Java | 3 | ★ |
-| C++ | 2 | ★★★★★ |
-| PowerBI | 1 | ★★★★★ |
-
 I enjoy working on maths problems & C#/Unity GameDev in my spare time.
 
 ---
